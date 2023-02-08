@@ -31,7 +31,7 @@ A simple wiring diagram is provided to guide wiring decisions. A few notes:
 - The ground connection is crucial towards proper balanced operation. In a balanced configuration, the separate ground wire need not be used.
 
 
-## Photograps
-The repository includes a number of photograps that follow the modification steps.
+## Photographs
+The repository includes a number of photographs that follow the modification steps.
 
 Additionally, that folder shows a rendering of the model for the screening can.
